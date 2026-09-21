@@ -12,27 +12,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ## Core Visualizations & Security Scenarios
 
-### 1. ☁️ Azure Resource Creation & Modifications <a href="https://github.com/TeShawnYoung/Azure-Resource-Activity"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
-
-**Focus:** Monitoring Azure resource creation and modification activity.
-
-**Key Capabilities:**
-
-* Azure resource activity monitoring
-* Administrative action analysis
-* Resource creation tracking
-* Modification tracking
-* Investigation of potentially unauthorized cloud activity
-
-**Resources:**
-
-* 📊 [Workbook JSON](Azure-Resource-Creation-Modifications/Azure-Resource-Creation-Modifications.json)
-* 🔎 [KQL Query](Azure-Resource-Creation-Modifications/Azure-Resource-Creation-Modifications.kql)
-* 🖼️ [Dashboard Screenshot](Azure-Resource-Creation-Modifications/Azure-Resource-Creation-Modifications.png)
-
----
-
-### 2. 📤 Data Exfiltration <a href="https://github.com/TeShawnYoung/Data-Exfiltration"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 1. 📤 Data Exfiltration <a href="https://github.com/TeShawnYoung/Data-Exfiltration"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 **Focus:** Identification and visualization of potentially unusual data transfer activity.
 
@@ -52,7 +32,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ---
 
-### 3. 🚨 Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring <a href="https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 2. 🚨 Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring <a href="https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 **Focus:** A multi-scenario Sentinel workbook project correlating identity and endpoint authentication telemetry to surface credential attacks, account compromise, and brute-force activity in near real time.
 
@@ -80,7 +60,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ---
 
-### 4. 🌍 Inbound Authentication Origins <a href="https://github.com/TeShawnYoung/Inbound-Authentication-Origins"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 3. 🌍 Inbound Authentication Origins <a href="https://github.com/TeShawnYoung/Inbound-Authentication-Origins"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 **Focus:** Geographic analysis of external authentication activity.
 
@@ -102,7 +82,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ---
 
-### 5. 🛡️ Inbound Threat Intelligence <a href="https://github.com/TeShawnYoung/Inbound-Threat-Intelligence"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 4. 🛡️ Inbound Threat Intelligence <a href="https://github.com/TeShawnYoung/Inbound-Threat-Intelligence"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 **Focus:** Geographic and source-level visualization of inbound activity associated with threat intelligence data.
 
@@ -122,7 +102,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ---
 
-### 6. 🌐 Outbound Connections <a href="https://github.com/TeShawnYoung/Outbound-Connections"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 5. 🌐 Outbound Connections <a href="https://github.com/TeShawnYoung/Outbound-Connections"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 **Focus:** Analysis and visualization of outbound network connections.
 
