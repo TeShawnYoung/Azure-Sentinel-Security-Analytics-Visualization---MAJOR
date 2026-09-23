@@ -26,9 +26,9 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 **Resources:**
 
-* 📊 [Workbook JSON](Data-Exfiltration/Data-Exfiltration.json)
-* 🔎 [KQL Query](Data-Exfiltration/Data-Exfiltration.kql)
-* 🖼️ [Dashboard Screenshot](Data-Exfiltration/Data-Exfiltration.png)
+* 📊 [Workbook JSON](https://github.com/TeShawnYoung/Data-Exfiltration/blob/main/Data-Exfiltration%2Cjson)
+* 🔎 [KQL Query](https://github.com/TeShawnYoung/Data-Exfiltration/blob/main/Data-Exfiltration.kql)
+* 🖼️ [Dashboard Screenshot](https://github.com/TeShawnYoung/Data-Exfiltration/blob/main/Data%20Exfiltration.png)
 
 ---
 
