@@ -96,9 +96,9 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 **Resources:**
 
-* 📊 [Workbook JSON](Inbound-Threat-Intelligence/Inbound-Threat-Intelligence.json)
-* 🔎 [KQL Query](Inbound-Threat-Intelligence/Inbound-Threat-Intelligence.kql)
-* 🖼️ [Dashboard Screenshot](Inbound-Threat-Intelligence/Inbound-Threat-Intelligence.png)
+* 📊 [Workbook JSON](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence/blob/main/Inbound-Threat-Intelligence.json)
+* 🔎 [KQL Query](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence/blob/main/Inbound-Threat-Intelligence.kql)
+* 🖼️ [Dashboard Screenshot](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence/blob/main/Inbound-Threat-Intelligence.png)
 
 ---
 
