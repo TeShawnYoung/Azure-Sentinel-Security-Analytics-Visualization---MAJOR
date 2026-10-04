@@ -32,7 +32,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 
 ---
 
-### 2. 🚨 Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring <a href="https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring"><img src="https://img.shields.io/badge/--555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+### 2. 🚨 Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring
 
 **Focus:** A multi-scenario Sentinel workbook project correlating identity and endpoint authentication telemetry to surface credential attacks, account compromise, and brute-force activity in near real time.
 
@@ -52,11 +52,7 @@ Each scenario includes the underlying **KQL query**, **Microsoft Sentinel Workbo
 * Correlation between failed and successful authentication activity
 * Identification of credential attacks, brute-force attempts, and potentially compromised accounts
 
-**Resources:**
-
-* 📄 [Entra ID Authentication Failures](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring/tree/main/Entra-ID-Authentication-Failures)
-* 📄 [Entra ID Authentication Success](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring/tree/main/Entra-ID-Authentication-Success)
-* 📄 [VM Authentication Failures](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring/tree/main/VM-Authentication-Failures)
+*Repository coming soon.*
 
 ---
 
